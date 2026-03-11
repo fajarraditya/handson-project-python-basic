@@ -18,7 +18,6 @@ CATEGORIES = {
     "intro": {
         "icon": "🚀",
         "title": "Percobaan Pertama",
-        "subtitle": "Langsung tulis kode, tanpa perlu bikin fungsi dulu",
         "problems": ["print_hello_world", "hitung_penjumlahan", "variabel_simpan", "print_perkalian", "print_multi_baris"],
     },
     "dasar": {
